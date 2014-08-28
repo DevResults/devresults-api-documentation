@@ -1,4 +1,8 @@
-devresults-api-documentation
-============================
+[![DevResults](http://devresults.com/Web/Images/logo.gif)](http://devresults.com)
 
-Documentation and Samples for the DevResults API
+# DevResults API
+
+The DevResults API provides RESTful endpionts for managing your DevResults data. Here you will find all of the documentation needed to get started.
+
+* [Configure API Access in DevResults](documenation/authentication.md)
+* [API Routes and Data Formats](documentation/routes.md)
