@@ -2,6 +2,6 @@
 
 # DevResults API
 
-The DevResults API provides RESTful endpoints for managing your DevResults data. Here you will find all of the documentation needed to get started.
+The DevResults API provides RESTful endpoints for managing your DevResults data. [Getting started and how to use documentation has been moved to help.devresults.com](https://help.devresults.com/help/devresults-api)
 
-* [Configure API Access in DevResults](documentation/authentication.md)
+Here you will find samples in a variety of languages to get you started.  
